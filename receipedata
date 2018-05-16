@@ -1,24 +1,25 @@
 [{
-    'dishName': 'Masala Dosa',
-    'ingredients': ['Wheat flour - 2cups', 'Red Chilli powder - 2tsps', 'Garam Masala - 1tsp', 'Dhania powder - 2tsps'],
-    'image': 'https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg',
-    'dishTime': 'Breakfast Recipes'
-  },
-  {
-    'dishName': 'Masala Dosa',
-    'ingredients': ['Wheat flour - 2cups', 'Red Chilli powder - 2tsps', 'Garam Masala - 1tsp', 'Dhania powder - 2tsps'],
-    'image': 'https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg',
-    'dishTime': 'Snack and Sweets'
-  },
-  {
-    'dishName': 'Masala Dosa',
-    'ingredients': ['Wheat flour - 2cups', 'Red Chilli powder - 2tsps', 'Garam Masala - 1tsp', 'Dhania powder - 2tsps'],
-    'image': 'https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg',
-    'dishTime': 'Rice Varities'
-  },
-  {
-    'dishName': 'Masala Dosa',
-    'ingredients': ['Wheat flour - 2cups', 'Red Chilli powder - 2tsps', 'Garam Masala - 1tsp', 'Dhania powder - 2tsps'],
-    'image': 'https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg',
-    'dishTime': 'Diabetic Recipes'
-  }]
+		"dishName": "Masala Dosa",
+		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
+		"image": "https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg",
+		"dishTime": "Breakfast Recipes"
+	},
+	{
+		"dishName": "Masala Dosa",
+		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
+		"image": "https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg",
+		"dishTime": "Snack and Sweets"
+	},
+	{
+		"dishName": "Masala Dosa",
+		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
+		"image": "https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg",
+		"dishTime": "Rice Varities"
+	},
+	{
+		"dishName": "Masala Dosa",
+		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
+		"image": "https://user-images.githubusercontent.com/39223722/39960893-b1c4fdd0-5648-11e8-9f1a-d53eb9d1aca8.jpg",
+		"dishTime": "Diabetic Recipes"
+	}
+]
