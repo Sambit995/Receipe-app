@@ -22,18 +22,6 @@
 		"dishTime": "Breakfast Recipes"
 	},
 	{
-		"dishName": "Upma",
-		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
-		"image": "https://user-images.githubusercontent.com/39223722/40118338-4946c620-5937-11e8-8302-e95853d7e11a.jpg",
-		"dishTime": "Breakfast Recipes"
-	},
-	{
-		"dishName": "Upma",
-		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
-		"image": "https://user-images.githubusercontent.com/39223722/40118338-4946c620-5937-11e8-8302-e95853d7e11a.jpg",
-		"dishTime": "Breakfast Recipes"
-	},
-	{
 		"dishName": "Rasogola",
 		"ingredients": ["Wheat flour - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
 		"image": "https://user-images.githubusercontent.com/39223722/40113833-5d6ba968-5928-11e8-99c8-42d3a8b0b01f.jpg",
