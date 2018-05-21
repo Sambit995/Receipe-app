@@ -40,9 +40,21 @@
 		"dishTime": "Rice Varities"
 	},
 	{
+		"dishName": "Pulao",
+		"ingredients": ["Rice - 2cups", "oil - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
+		"image": "https://user-images.githubusercontent.com/39223722/40290611-b356a910-5cdc-11e8-8733-d3254b0ce9a4.jpg",
+		"dishTime": "Rice Varities"
+	},
+	{
 		"dishName": "Paneer Pawbhaji",
 		"ingredients": ["Paneer - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
 		"image": "https://user-images.githubusercontent.com/39223722/40113928-b1b8ce88-5928-11e8-9e6f-27b9afe280c2.jpg",
+		"dishTime": "Diabetic Recipes"
+	},
+	{
+		"dishName": "Roasted Cauliflower Rice,
+		"ingredients": ["Paneer - 2cups", "Red Chilli powder - 2tsps", "Garam Masala - 1tsp", "Dhania powder - 2tsps"],
+		"image": "https://user-images.githubusercontent.com/39223722/40290646-faab8dda-5cdc-11e8-8d8f-619ce31c32fd.jpg",
 		"dishTime": "Diabetic Recipes"
 	}
 ]
